@@ -2,4 +2,4 @@
 An app which generates tweets
 
 
-https://my-first-tweet-app.streamlit.app/   (
+https://my-first-tweet-app.streamlit.app/   
